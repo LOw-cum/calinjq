@@ -1,0 +1,29 @@
+body{
+	background: black;
+}
+
+.min_div{
+	padding: 100px;
+	padding-left: 500px;
+	background: #333333;
+}
+
+.calc{
+	padding-bottom: 10px;
+	color: #a02e2e;
+}
+
+.calc:hover{
+	color: red;
+}
+
+.butt{
+	transition: all .4s ease;
+	margin-left: 70px;
+}
+
+.butt:hover{
+	color: white;
+	transform: scale(1.2);
+}
+
